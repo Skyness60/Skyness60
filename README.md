@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello World !<br><br>I’m a passionate software developer currently studying at 42 School 🎓, working toward a Level 7 RNCP Title (equivalent to a Master’s degree) in Algorithms and Artificial Intelligence. I also have experience as a web developer and have worked as a freelancer on FiveM projects 🎮.<br>🚀 What Drives Me:<br><br>    Continuous Learning – I’m always learning new languages and concepts to stay ahead in the tech world.<br>    Building for the Future – I work on impactful projects, from low-level programming to modern applications.<br>    Collaboration – I enjoy teaming up to solve complex challenges and contributing to open-source projects.<br><br>🛠 Current & Future Focus:<br><br>    Languages I'm learning:<br>        C, C++, Python, JavaScript, PHP, and more.<br><br>🌟 What’s Next?<br><br>My goal is to keep evolving as a developer, work on large-scale projects in software engineering, and stay curious and innovative!
+<h2>👋 Hello World !</h2><br><br>I’m a passionate software developer currently studying at 42 School 🎓, working toward a Level 7 RNCP Title (equivalent to a Master’s degree) in Algorithms and Artificial Intelligence. I also have experience as a web developer and have worked as a freelancer on FiveM projects 🎮.<br>🚀 What Drives Me:<br><br>    Continuous Learning – I’m always learning new languages and concepts to stay ahead in the tech world.<br>    Building for the Future – I work on impactful projects, from low-level programming to modern applications.<br>    Collaboration – I enjoy teaming up to solve complex challenges and contributing to open-source projects.<br><br>🛠 Current & Future Focus:<br><br>    Languages I'm learning:<br>        C, C++, Python, JavaScript, PHP, and more.<br><br>🌟 What’s Next?<br><br>My goal is to keep evolving as a developer, work on large-scale projects in software engineering, and stay curious and innovative!
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Skyness60&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Skyness60&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Skyness60&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Skyness60&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Skyness60&icon=6&color=8)](https://visitcount.itsvg.in)
