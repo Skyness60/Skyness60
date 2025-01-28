@@ -1,3 +1,5 @@
+# <i>Talk is cheap. Show me the code.</i> – Linus Torvalds
+– Linus Torvalds
 # 💫 About Me:
 ## 👋 Hello World !
 I’m a passionate software developer currently studying at 42 School 🎓, working toward a Level 7 RNCP Title (equivalent to a Master’s degree) in Algorithms and Artificial Intelligence. I also have experience as a web developer and have worked as a freelancer on FiveM projects 🎮.<br><br> 🚀 What Drives Me:<br>Continuous Learning – I’m always learning new languages and concepts to stay ahead in the tech world.<br>    Building for the Future – I work on impactful projects, from low-level programming to modern applications.<br>    Collaboration – I enjoy teaming up to solve complex challenges and contributing to open-source projects.<br><br>🛠 Current & Future Focus:<br>   Languages I'm learning:<br>        C, C++, Python, JavaScript, PHP, and more.<br><br>🌟 What’s Next?<br>My goal is to keep evolving as a developer, work on large-scale projects in software engineering, and stay curious and innovative!
